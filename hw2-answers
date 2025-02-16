@@ -1,0 +1,27 @@
+Question 1:
+
+linux commands
+ls - lists all the files in the current directory
+cd - used to move directories
+pwd - shows the name of the current directory that you are in
+mkdir - creates a new directory
+cat - allows you to view a file's contents
+
+
+Question 2:
+
+git commands
+git clone - creates a copy of a repo on your machine locally
+git status - shows if the local repo is up to date with the copy that is uploaded to github
+git add - stages files so they are ready to be committed to the local repo
+git commit -m - commits the changes and allows you to add a descriptive changelog
+git push - finally uploads the changes to github, syncing your copy and the github copy
+
+
+Question 3:
+
+i:   You can collaborate with classmates on homework, but only with classmates in your group. You must include a document on homework assignments that states who you worked with.
+ii:  External references are allowed, but you can not use generative AI. External sources must also be listed in the document.
+iii: The penalty for submiting late assignments is -10% for every day it is late. 
+iv:  Missing classes will require the student to reach out and find out what work they missed, as well as discuss with the professor what options are available to make up missed work.
+
